@@ -6,7 +6,7 @@ title: "Posts"
 
 <section class="content">
 
-Previous Topics
+Previous Wine & Cheese seminars
 ===============
 
 <ul class="listing">

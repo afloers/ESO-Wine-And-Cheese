@@ -1,6 +1,6 @@
 ---
 layout: layout
-title: "Upcoming Topics"
+title: "Upcoming ESO Wine & Cheese seminars"
 ---
 
 <section class="content">
@@ -8,9 +8,10 @@ title: "Upcoming Topics"
 Upcoming Topics
 ===============
 
-**Fall 2018**
+**Fall 2019**
+If you want to give a talk in one of the seminars listed below, please contact the current ESO W&C organizers.
 
-This is some material about upcoming meetings for your group.
+We have currently scheduled the following Wine & Cheese seminars:
 
 <ul class="listing">
   {% assign upcoming = (site.posts | where: "category" , "upcoming") %}
