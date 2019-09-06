@@ -11,7 +11,7 @@ Upcoming Topics
 **Fall 2019**
 If you want to give a talk in one of the seminars listed below, please contact the current ESO W&C organizers.
 
-We have currently scheduled the following Wine & Cheese seminars:
+Currently, we have the following Wine & Cheese seminars scheduled:
 
 <ul class="listing">
   {% assign upcoming = (site.posts | where: "category" , "upcoming") %}
